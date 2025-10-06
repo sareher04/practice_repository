@@ -1,4 +1,7 @@
 Sarah Hermida
+<<<<<<< HEAD
 Jacob Valmeo
 Felix Montes-Flores
 Bryan Granados
+Andres Feldstedt
+
